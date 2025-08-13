@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    color: rgb(55, 114, 143);
+}
+
+.hero{
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    grid-template-rows: 100px 100px 100px 100px;
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(55, 114, 143);
+    border-radius: 5px;
+    font-size: 60px;
+    cursor: pointer;
+}
+
+body{
+    background: rgb(32, 36, 73);
+}
+
+#result{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 40px;
+    color: darkmagenta;
+}
+#score{
+    color: white;
+    font-size: larger;
+}
