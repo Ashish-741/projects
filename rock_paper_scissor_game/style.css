@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+  }
+
+body {
+    height: 100vh;
+    background: linear-gradient(180deg, #ba46c1, #1dadcd);
+  }
+h1{
+    margin-top: 200px;
+    text-align: center;
+}
+.choice{
+    text-align: center;
+}
+
+.result{
+    text-align: center;
+    font-size: larger;
+}
+
+button{
+    margin: 15px;
+    font-size: larger;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+
+}
