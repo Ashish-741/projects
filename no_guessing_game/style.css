@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+    font-family: "Raleway", sans-serif;
+}
+
+body {
+    height: 100vh;
+    background: linear-gradient(180deg, #ba46c1, #1dadcd);
+}
+
+h1{
+    margin-top: 250px;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.hero{
+    text-align: center;
+}
+
+#result{
+    text-align: center;
+}
+
+#restart{
+    margin-left: 47%;
+}
+#inp{
+    margin-left: 15px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
+
+button{
+    font-size: larger;
+    text-align: center;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+}
