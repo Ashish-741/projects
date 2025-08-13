@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    margin-top: 250px;
+}
+
+input{
+    margin-left: 43%;
+    text-align: center;
+}
+
+ul{
+    margin-left: 300px;
+}
+
+.completed{
+    text-decoration: line-through;
+    color: gray;
+}
+
+button{
+    cursor: pointer;
+}
+
+body{
+    background: linear-gradient(90deg,rgb(32, 166, 220),rgb(29, 197, 99),rgb(202, 38, 178));
+}
